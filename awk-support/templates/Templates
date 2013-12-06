@@ -2,11 +2,11 @@
 §  User Macros
 § =============================================================
 
-SetMacro( 'AUTHOR',      'YOUR NAME' )
+SetMacro( 'AUTHOR',      'dolfly' )
 SetMacro( 'AUTHORREF',   '' )
-SetMacro( 'COMPANY',     '' )
+SetMacro( 'COMPANY',     'dongyuezhao.cn' )
 SetMacro( 'COPYRIGHT',   '' )
-SetMacro( 'EMAIL',       '' )
+SetMacro( 'EMAIL',       'dolfly@foxmail.com' )
 SetMacro( 'LICENSE',     '' )
 SetMacro( 'ORGANIZATION','' )
 
